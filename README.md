@@ -6,8 +6,7 @@ I am a Data Science student focused on turning complex datasets into actionable 
 - 📊 **Current Focus:** Perfecting my skills in [Predictive Modeling/SQL/Big Data].
 - 🛠 **Toolbox:** Python , SQL, Excel, and [Tableau/PowerBI].
 - 🌱 **Learning:** I'm currently exploring [Deep Learning/Cloud Computing/Time Series Analysis].
-- 📫 **How to reach me:** [www.linkedin.com/in/
-sakshi-kumari-722294300]
+- 📫 **How to reach me:** [www.linkedin.com/in/sakshi-kumari-722294300]
 
 
 ### 📈 My Data Science Journey
