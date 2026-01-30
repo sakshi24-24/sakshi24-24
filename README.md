@@ -1,19 +1,43 @@
-## Hi there 👋
-###Data Science Student | Aspiring [Analyst/ML Engineer]
+👋 Hi, I’m Sakshi Kumari
 
-I am a Data Science student focused on turning complex datasets into actionable insights. I enjoy the "detective work" of data cleaning and the storytelling aspect of data visualization.
+Data Science Student | Aspiring Data Analyst / ML Engineer
 
-- 📊 **Current Focus:** Perfecting my skills in [Predictive Modeling/SQL/Big Data].
-- 🛠 **Toolbox:** Python , SQL, Excel, and [Tableau/PowerBI].
-- 🌱 **Learning:** I'm currently exploring [Deep Learning/Cloud Computing/Time Series Analysis].
-- 📫 **How to reach me:** [www.linkedin.com/in/sakshi-kumari-722294300]
+I’m a Data Science student who enjoys turning raw, messy datasets into meaningful insights. I like the detective work of data cleaning and the storytelling aspect of data visualization, and I’m building my skills through consistent hands-on practice and real-world tasks.
 
+🔍 What I Focus On
 
-### 📈 My Data Science Journey
-| Skill | Level |
-| :--- | :--- |
-| **Data Cleaning** | (TRIM, Imputation) |
-| **Statistical Analysis** | Intermediate ( Regression) |
-| **Data Visualization** | Professional ( Tableau) |
+📊 Exploratory Data Analysis (EDA) & data cleaning
+🧮 SQL for analytics (joins, window functions, schemas)
+📈 Insight-driven analysis and visualization
+🧠 Building strong foundations for analytics and machine learning
 
-**sakshi24-24/sakshi24-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+
+Languages: Python, SQL
+Data Libraries: pandas, numpy, matplotlib
+Databases: SQLite
+Visualization: Tableau, Power BI
+Others: Excel, Google Colab, GitHub
+
+📚 Currently Learning
+
+Advanced SQL analytics
+Machine Learning fundamentals
+Time Series Analysis
+Model-ready data preparation
+
+📈 Skills Overview
+
+Skill	Level
+Data Cleaning	Strong (TRIM, Imputation, Outlier Handling)
+Exploratory Data Analysis	Strong
+Statistical Analysis	Intermediate (Regression, Correlation)
+SQL Analytics	Intermediate
+Data Visualization	Professional (Tableau, Power BI)
+
+🎯 Career Goal
+
+To grow as a Data Analyst / ML Engineer by solving real data problems, extracting actionable insights, and continuously improving my analytical and technical skills.
+
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/sakshi-kumari-722294300
