@@ -1,59 +1,57 @@
-👋 Hi, I’m Sakshi Kumari
+# 👋 Hi, I’m Sakshi Kumari
+### Data Science Student | Aspiring Data Analyst & ML Engineer 🚀
 
-Data Science Student | Aspiring Data Analyst / ML Engineer
+I am a Data Science student who thrives at the intersection of **raw data** and **actionable insights**. I enjoy the "detective work" of data cleaning and the storytelling power of visualization. Currently, I am building a portfolio of end-to-end analytical projects that solve real-world problems.
 
-I’m a Data Science student who enjoys turning raw, messy datasets into meaningful insights. I like the detective work of data cleaning and the storytelling aspect of data visualization, and I’m building my skills through consistent hands-on practice and real-world tasks.
+---
 
-🔍 What I Focus On
+## 💎 Featured Project
+### [Global CO2 Emissions Tracker (1990 - 2024)](https://github.com/sakshi24-24/Global-CO2-Emissions-Tracker)
+*Successfully completed as part of my Data Analytics Internship at Elevate Labs (Ministry of MSME).*
 
-📊 Exploratory Data Analysis (EDA) & data cleaning
+* **The Problem:** Tracking carbon footprints across Energy, Transport, and Industry for over 200 countries.
+* **The Solution:** Developed a robust ETL pipeline in **Python** to clean 50,000+ rows and built an interactive **Tableau Dashboard** to visualize global emission trends and GDP correlations.
+* **Key Achievement:** Resolved data duplication issues between regional aggregates and country-level data to ensure 100% accuracy in reporting.
 
-🧮 SQL for analytics (joins, window functions, schemas)
+---
 
-📈 Insight-driven analysis and visualization
+## 🛠️ Tech Stack & Tools
 
-🧠 Building strong foundations for analytics and machine learning
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Libraries** | `Pandas` `NumPy` `Matplotlib`  |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
+| **Databases** | `SQLite` `MySQL` |
+| **Others** | `Excel (Advanced)` `Google Colab` `GitHub` `Jupyter Notebooks` |
 
-🛠️ Tech Stack
+---
 
-Languages: Python, SQL
+## 📈 Skills & Proficiency
 
-Data Libraries: pandas, numpy, matplotlib
+| Skill Area | Proficiency Level | Key Highlights |
+| :--- | :--- | :--- |
+| **Data Cleaning** | **Advanced** | Imputation, Outlier Handling, Melting/Pivoting Data |
+| **Exploratory Analysis** | **Strong** | Correlation analysis, Trend spotting, Hypothesis testing |
+| **SQL Analytics** | **Intermediate** | Joins, Window Functions, Complex Aggregations |
+| **Data Storytelling** | **Professional** | Interactive Dashboards, PDF Policy Briefs, Executive Summaries |
 
-Databases: SQLite
+---
 
-Visualization: Tableau, Power BI
+## 📈 Recent Internship Milestones
+* **Data Analytics Intern @ Elevate Labs:** Focused on Global CO2 patterns and Sectoral analysis.
+* **Documentation Specialist:** Authored professional policy briefs and technical reports summarizing data-driven environmental insights.
+* **Process Mastery:** Demonstrated expertise in the complete data lifecycle—from raw CSV ingestion to multi-layered Tableau Dashboards.
 
-Others: Excel, Google Colab, GitHub
+---
 
-📚 Currently Learning
+## 🎯 Career Goal
+My goal is to grow as an **ML Engineer** by mastering model-ready data preparation and time-series forecasting. I am committed to solving complex data problems and continuously improving my technical depth in SQL and statistical modeling.
 
-Advanced SQL analytics
+---
 
-Machine Learning fundamentals
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sakshi-kumari-722294300) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshichaurasiya24@gmail.com)
 
-Time Series Analysis
-
-Model-ready data preparation
-
-📈 Skills Overview
-
-Skill	Level
-
-Data Cleaning	Strong (TRIM, Imputation, Outlier Handling)
-
-Exploratory Data Analysis	Strong
-
-Statistical Analysis	Intermediate (Regression, Correlation)
-
-SQL Analytics	Intermediate
-
-Data Visualization	Professional (Tableau, Power BI)
-
-🎯 Career Goal
-
-To grow as a Data Analyst / ML Engineer by solving real data problems, extracting actionable insights, and continuously improving my analytical and technical skills.
-
-📫 Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/sakshi-kumari-722294300
+---
