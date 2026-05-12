@@ -1,73 +1,267 @@
-# 👋 Hi, I’m Sakshi Kumari
-### Data Science Student | Aspiring Data Analyst & ML Engineer 🚀
+# 👋 Hi, I'm Sakshi Kumari
 
-I am a Data Science student who thrives at the intersection of **raw data** and **actionable insights**. I enjoy the "detective work" of data cleaning and the storytelling power of visualization. Currently, I am building a portfolio of end-to-end analytical projects that solve real-world problems.
+<h3 align="center">Data Science Student | Aspiring Data Analyst | Machine Learning Enthusiast 🚀</h3>
 
----
-
-## 💎 Featured Project
-
-## Telecom Customer Churn Analysis
-A binary classification project aimed at improving customer retention strategies.
-Objective: Analyze customer behavior and predict the likelihood of a user churning based on usage patterns and subscription details.
-Tools: Python, Pandas, Scikit-learn, Matplotlib
-Highlights: Built and evaluated a Logistic Regression model; identified short-term contracts and high monthly charges as key churn drivers.
-
-## Healthcare Appointment No-Show Prediction
-A predictive analytics project optimizing healthcare scheduling efficiency.
-Objective: Predict whether patients will miss their medical appointments and analyze the demographic and logistical factors affecting attendance.
-Tools: Python, Scikit-learn, Power BI
-Highlights: Engineered a WaitingDays feature, developed a Decision Tree Classifier, and built an interactive Power BI dashboard to visualize the ~20% no-show rate.
-
-## Movie Success Prediction and Sentiment Study
-An advanced project bridging financial forecasting with Natural Language Processing.
-Objective: Predict a movie's box office revenue using a combination of production budget data and audience sentiment derived from raw text reviews.
-### [Global CO2 Emissions Tracker (1990 - 2024)](https://github.com/sakshi24-24/Global-CO2-Emissions-Tracker)
-*Successfully completed as part of my Data Analytics Internship at Elevate Labs (Ministry of MSME).*
-
-* **The Problem:** Tracking carbon footprints across Energy, Transport, and Industry for over 200 countries.
-* **The Solution:** Developed a robust ETL pipeline in **Python** to clean 50,000+ rows and built an interactive **Tableau Dashboard** to visualize global emission trends and GDP correlations.
-* **Key Achievement:** Resolved data duplication issues between regional aggregates and country-level data to ensure 100% accuracy in reporting.
+<p align="center">
+Passionate about transforming raw data into meaningful insights through analytics, visualization, and predictive modeling.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 💫 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data Libraries** | `Pandas` `NumPy` `Matplotlib`  |
-| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
-| **Databases** | `SQLite` `MySQL` |
-| **Others** | `Excel (Advanced)` `Google Colab` `GitHub` `Jupyter Notebooks` |
+I am a Data Science student with a strong interest in:
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🤖 Machine Learning
+- 📉 Predictive Modeling
+- 📚 Data Storytelling
 
----
+I enjoy working on end-to-end analytics projects involving:
+- data cleaning
+- exploratory data analysis
+- dashboard development
+- machine learning
+- business insight generation
 
-## 📈 Skills & Proficiency
-
-| Skill Area | Proficiency Level | Key Highlights |
-| :--- | :--- | :--- |
-| **Data Cleaning** | **Advanced** | Imputation, Outlier Handling, Melting/Pivoting Data |
-| **Exploratory Analysis** | **Strong** | Correlation analysis, Trend spotting, Hypothesis testing |
-| **SQL Analytics** | **Intermediate** | Joins, Window Functions, Complex Aggregations |
-| **Data Storytelling** | **Professional** | Interactive Dashboards, PDF Policy Briefs, Executive Summaries |
+Currently, I am building a professional analytics portfolio focused on solving real-world business and operational problems using data-driven approaches.
 
 ---
 
-## 📈 Recent Internship Milestones
-* **Data Analytics Intern @ Elevate Labs:** Focused on Global CO2 patterns and Sectoral analysis.
-* **Documentation Specialist:** Authored professional policy briefs and technical reports summarizing data-driven environmental insights.
-* **Process Mastery:** Demonstrated expertise in the complete data lifecycle—from raw CSV ingestion to multi-layered Tableau Dashboards.
+# 💎 Featured Projects
 
 ---
 
-## 🎯 Career Goal
-My goal is to grow as an **Data Analyst** by mastering model-ready data preparation and time-series forecasting. I am committed to solving complex data problems and continuously improving my technical depth in SQL and statistical modeling.
+## 📞 Telecom Customer Churn Analysis
+
+### 🎯 Objective
+Analyze telecom customer behavior and predict customer churn using machine learning models and business analytics techniques.
+
+### 🛠️ Tools Used
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+### 📈 Key Highlights
+- Conducted exploratory data analysis on telecom datasets
+- Built and evaluated a Logistic Regression classification model
+- Identified high monthly charges and short-term contracts as key churn indicators
+- Generated actionable customer retention insights
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sakshi-kumari-722294300) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshichaurasiya24@gmail.com)
+## 🏥 Healthcare Appointment No-Show Prediction
+
+### 🎯 Objective
+Predict patient appointment no-shows and identify factors affecting attendance rates.
+
+### 🛠️ Tools Used
+`Python` `Scikit-learn` `Power BI`
+
+### 📈 Key Highlights
+- Engineered custom features including `WaitingDays`
+- Built a Decision Tree classification model
+- Designed an interactive Power BI dashboard
+- Analyzed demographic and scheduling-related attendance patterns
 
 ---
+
+## 🎬 Movie Success Prediction & Sentiment Analysis
+
+### 🎯 Objective
+Predict movie box office revenue using audience sentiment and production-related variables.
+
+### 🛠️ Tools Used
+`Python` `NLTK (VADER)` `Scikit-learn` `Seaborn` `Excel`
+
+### 📈 Key Highlights
+- Performed sentiment analysis on textual audience reviews
+- Extracted compound sentiment scores using VADER
+- Built Multiple Linear Regression models
+- Identified correlation between positive audience sentiment and revenue growth
+
+---
+
+## 🌍 Global CO₂ Emissions Tracker (1990–2024)
+
+### 📌 Internship Project — Elevate Labs (Ministry of MSME)
+
+### 🎯 Objective
+Track and analyze carbon emissions across Energy, Transport, and Industrial sectors for 200+ countries.
+
+### 🛠️ Tools Used
+`Python` `Tableau` `Pandas` `Excel`
+
+### 📈 Key Highlights
+- Cleaned and transformed 50,000+ environmental data records
+- Built a robust ETL pipeline for structured analytics workflows
+- Developed an interactive Tableau dashboard for emission trend visualization
+- Resolved duplication inconsistencies between regional and country-level datasets
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+<table>
+<tr>
+<th>Category</th>
+<th>Tools & Technologies</th>
+</tr>
+
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Data Libraries</strong></td>
+<td>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Visualization</strong></td>
+<td>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Others</strong></td>
+<td>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Skills & Proficiency
+
+<table>
+<tr>
+<th>Skill Area</th>
+<th>Proficiency Level</th>
+<th>Key Highlights</th>
+</tr>
+
+<tr>
+<td><strong>Data Cleaning</strong></td>
+<td><strong>Advanced</strong></td>
+<td>Missing value handling, outlier treatment, reshaping datasets</td>
+</tr>
+
+<tr>
+<td><strong>Exploratory Analysis</strong></td>
+<td><strong>Strong</strong></td>
+<td>Trend analysis, correlation studies, insight generation</td>
+</tr>
+
+<tr>
+<td><strong>SQL Analytics</strong></td>
+<td><strong>Intermediate</strong></td>
+<td>Joins, aggregations, window functions, analytical queries</td>
+</tr>
+
+<tr>
+<td><strong>Machine Learning</strong></td>
+<td><strong>Intermediate</strong></td>
+<td>Classification, regression, model evaluation techniques</td>
+</tr>
+
+<tr>
+<td><strong>Data Storytelling</strong></td>
+<td><strong>Strong</strong></td>
+<td>Interactive dashboards, KPI reporting, executive summaries</td>
+</tr>
+</table>
+
+---
+
+# 💼 Internship Experience
+
+## 📊 Data Analytics Intern — Elevate Labs
+
+### Key Contributions
+- Worked on global CO₂ emissions and sector-wise environmental analysis
+- Developed data cleaning and transformation workflows using Python
+- Designed Tableau dashboards for visual storytelling and reporting
+- Authored technical reports and policy-style analytical summaries
+- Managed end-to-end workflows from raw CSV ingestion to dashboard deployment
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshi24-24&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi24-24&layout=compact&theme=tokyonight" height="180em"/>
+
+</p>
+
+---
+
+# 🎯 Career Goal
+
+My goal is to grow as a Data Analyst by building scalable analytics solutions and strengthening my expertise in:
+- SQL Analytics
+- Predictive Modeling
+- Business Intelligence
+- Statistical Analysis
+- Machine Learning
+
+I am passionate about solving real-world business problems through data-driven decision-making and continuous learning.
+
+---
+
+# 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sakshi-kumari-722294300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sakshichaurasiya24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sakshi24-24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
