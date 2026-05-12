@@ -217,18 +217,6 @@ Track and analyze carbon emissions across Energy, Transport, and Industrial sect
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakshi24-24&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi24-24&layout=compact&theme=tokyonight" height="180em"/>
-
-</p>
-
----
-
 # 🎯 Career Goal
 
 My goal is to grow as a Data Analyst by building scalable analytics solutions and strengthening my expertise in:
