@@ -6,6 +6,22 @@ I am a Data Science student who thrives at the intersection of **raw data** and 
 ---
 
 ## 💎 Featured Project
+
+## Telecom Customer Churn Analysis
+A binary classification project aimed at improving customer retention strategies.
+Objective: Analyze customer behavior and predict the likelihood of a user churning based on usage patterns and subscription details.
+Tools: Python, Pandas, Scikit-learn, Matplotlib
+Highlights: Built and evaluated a Logistic Regression model; identified short-term contracts and high monthly charges as key churn drivers.
+
+## Healthcare Appointment No-Show Prediction
+A predictive analytics project optimizing healthcare scheduling efficiency.
+Objective: Predict whether patients will miss their medical appointments and analyze the demographic and logistical factors affecting attendance.
+Tools: Python, Scikit-learn, Power BI
+Highlights: Engineered a WaitingDays feature, developed a Decision Tree Classifier, and built an interactive Power BI dashboard to visualize the ~20% no-show rate.
+
+## Movie Success Prediction and Sentiment Study
+An advanced project bridging financial forecasting with Natural Language Processing.
+Objective: Predict a movie's box office revenue using a combination of production budget data and audience sentiment derived from raw text reviews.
 ### [Global CO2 Emissions Tracker (1990 - 2024)](https://github.com/sakshi24-24/Global-CO2-Emissions-Tracker)
 *Successfully completed as part of my Data Analytics Internship at Elevate Labs (Ministry of MSME).*
 
@@ -46,7 +62,7 @@ I am a Data Science student who thrives at the intersection of **raw data** and 
 ---
 
 ## 🎯 Career Goal
-My goal is to grow as an **ML Engineer** by mastering model-ready data preparation and time-series forecasting. I am committed to solving complex data problems and continuously improving my technical depth in SQL and statistical modeling.
+My goal is to grow as an **Data Analyst** by mastering model-ready data preparation and time-series forecasting. I am committed to solving complex data problems and continuously improving my technical depth in SQL and statistical modeling.
 
 ---
 
